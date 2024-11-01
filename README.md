@@ -12,9 +12,11 @@ Robin Taing
 # 01.11.2024
 Test Program in Main implementieren
 - [ ] enemy script
-- [ ] player script
-- [ ] layer fixen und weiter implementieren
+- [x] player script
+- [x] layer fixen und weiter implementieren
 - [ ] code von Kollegen verstehen
+
+
 
 # 08.11.2024
 weiterhin script implementieren und die Einstellungen der Kollegen anpassen
