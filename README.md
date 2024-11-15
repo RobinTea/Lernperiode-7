@@ -20,7 +20,7 @@ Test Program in Main implementieren
 
 # 08.11.2024
 weiterhin script implementieren und die Einstellungen der Kollegen anpassen
-- [ ] enemy hinzufügen (er existierte noch gar nicht)
+- [x] enemy hinzufügen (er existierte noch gar nicht)
 - [ ] player script (der Script ist kompliziert ausserdem sind die Daten für die Map und die für den Player in der gleichen Szene)
 - [ ] Script vom tutorial fixen (der Schaden der vom Gegner erlitten wird ist in dem enemy script usw.)
 - [ ] .gitignore aufsetzen
