@@ -28,7 +28,7 @@ weiterhin script implementieren und die Einstellungen der Kollegen anpassen
 # 15.11.2024
 Ich werde heute den Stoff im Imformatik Arbeiten da ich mich für die Prüfung vorbereiten möchte
 - [x] 8450 vid + Teil 1
-- [ ] 8450 Teil 2-3
+- [x] 8450 Teil 2-3
 - [ ] 8423
 - [ ] 8424
 
