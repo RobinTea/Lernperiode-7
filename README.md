@@ -33,4 +33,11 @@ Ich werde heute den Stoff im Imformatik Arbeiten da ich mich für die Prüfung v
 - [ ] 8424
 
 # 22.11.2024
-- [ ] .
+
+- [x] 8423
+- [x] 8424
+- [x] 8425
+- [ ] 8426
+
+# 30.11.2024
+- [ ] 8429
