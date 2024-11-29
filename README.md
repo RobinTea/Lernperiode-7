@@ -39,5 +39,9 @@ Ich werde heute den Stoff im Imformatik Arbeiten da ich mich für die Prüfung v
 - [x] 8425
 - [ ] 8426
 
-# 30.11.2024
-- [ ] 8429
+# 29.11.2024
+Ich werde heute mir Zeit nehmen um an der LB 294 zu arbeiten. 
+- [ ] landingview mit header
+- [ ] Projekt mit BBB json server verbinden
+- [ ] loginview
+- [ ] mainview
