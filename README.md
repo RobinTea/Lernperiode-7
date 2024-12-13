@@ -50,4 +50,8 @@ Ich werde heute mir Zeit nehmen um an der LB 294 zu arbeiten.
 - [ ] adfs
 
 # 13.12.2024
-- [ ] adsf
+adventofcode.com
+- [ ] 1-1
+- [ ] 1-2
+- [ ] 2-1
+- [ ] 2-2
