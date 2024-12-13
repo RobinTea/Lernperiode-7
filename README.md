@@ -55,3 +55,8 @@ adventofcode.com (in the folder aoc)
 - [ ] 1-2
 - [ ] 2-1
 - [ ] 2-2
+
+# 20.12.2024
+- [ ] 2-1
+- [ ] 2-2
+- [ ] 
