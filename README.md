@@ -50,7 +50,7 @@ Ich werde heute mir Zeit nehmen um an der LB 294 zu arbeiten.
 - [ ] adfs
 
 # 13.12.2024
-adventofcode.com
+adventofcode.com (in the folder aoc)
 - [ ] 1-1
 - [ ] 1-2
 - [ ] 2-1
