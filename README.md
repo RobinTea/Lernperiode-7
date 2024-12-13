@@ -45,3 +45,9 @@ Ich werde heute mir Zeit nehmen um an der LB 294 zu arbeiten.
 - [ ] Projekt mit BBB json server verbinden
 - [ ] loginview
 - [ ] mainview
+
+# 6.12.2024
+- [ ] adfs
+
+# 13.12.2024
+- [ ] adsf
