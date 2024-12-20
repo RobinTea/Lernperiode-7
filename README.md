@@ -59,5 +59,4 @@ adventofcode.com (code im folder aoc_day1)
 # 20.12.2024
 - [ ] 2-1
 - [ ] 2-2
-- [ ] 3-1
-- [ ] 3-2
+
