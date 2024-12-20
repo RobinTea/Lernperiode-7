@@ -51,12 +51,13 @@ Ich werde heute mir Zeit nehmen um an der LB 294 zu arbeiten.
 
 # 13.12.2024
 adventofcode.com (in the folder aoc)
-- [ ] 1-1
-- [ ] 1-2
+- [x] 1-1
+- [x] 1-2
 - [ ] 2-1
 - [ ] 2-2
 
 # 20.12.2024
 - [ ] 2-1
 - [ ] 2-2
-- [ ] .
+- [ ] 3-1
+- [ ] 3-2
